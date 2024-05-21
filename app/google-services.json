@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128472295528",
+    "project_id": "legendary-quiz-8b94b",
+    "storage_bucket": "legendary-quiz-8b94b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128472295528:android:a43638d59fc3a62719f3dd",
+        "android_client_info": {
+          "package_name": "com.example.legendaryquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8CDa-X0LXGbfMD63YW5wuSGsrtZL7G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
